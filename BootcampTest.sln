@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeDP.App", "BridgeDP.App\BridgeDP.App.csproj", "{90A0FCB3-A5CA-40CE-8637-F26CB794B0A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDP.App", "FacadeDP.App\FacadeDP.App.csproj", "{C61D4C65-B17C-4EA3-AADB-3280311C68C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityP", "SingleResponsibilityP\SingleResponsibilityP.csproj", "{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedP", "OpenClosedP\OpenClosedP.csproj", "{81C623ED-C7EB-428F-BD00-1F3B8630A075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovP", "LiskovP\LiskovP.csproj", "{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A0FCB3-A5CA-40CE-8637-F26CB794B0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A0FCB3-A5CA-40CE-8637-F26CB794B0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A0FCB3-A5CA-40CE-8637-F26CB794B0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A0FCB3-A5CA-40CE-8637-F26CB794B0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C61D4C65-B17C-4EA3-AADB-3280311C68C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61D4C65-B17C-4EA3-AADB-3280311C68C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61D4C65-B17C-4EA3-AADB-3280311C68C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61D4C65-B17C-4EA3-AADB-3280311C68C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C623ED-C7EB-428F-BD00-1F3B8630A075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C623ED-C7EB-428F-BD00-1F3B8630A075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C623ED-C7EB-428F-BD00-1F3B8630A075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C623ED-C7EB-428F-BD00-1F3B8630A075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07A0EBD6-D9B4-48DD-B543-54070FA3E482}
+	EndGlobalSection
+EndGlobal
