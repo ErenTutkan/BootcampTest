@@ -8,7 +8,7 @@ namespace BridgeDP.App
 {
     internal abstract class AbstractConnectionControl
     {
-       protected IPrinter _printer;
+       private readonly IPrinter _printer;
 
         public AbstractConnectionControl(IPrinter printer)
         {

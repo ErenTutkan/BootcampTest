@@ -14,7 +14,7 @@ namespace BridgeDP.App
 
         public override void SetScan()
         {
-            _printer.Scan();
+            base.Scan();
             Console.WriteLine("Kablolu Bağlantıdan yollandı.");
         }
     }

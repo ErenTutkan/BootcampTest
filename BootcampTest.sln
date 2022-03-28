@@ -7,15 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BridgeDP.App", "BridgeDP.Ap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeDP.App", "FacadeDP.App\FacadeDP.App.csproj", "{C61D4C65-B17C-4EA3-AADB-3280311C68C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityP", "SingleResponsibilityP\SingleResponsibilityP.csproj", "{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleResponsibilityP", "SingleResponsibilityP\SingleResponsibilityP.csproj", "{A9DAF2E8-60E6-4569-8B07-68E45ADB4ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedP", "OpenClosedP\OpenClosedP.csproj", "{81C623ED-C7EB-428F-BD00-1F3B8630A075}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenClosedP", "OpenClosedP\OpenClosedP.csproj", "{81C623ED-C7EB-428F-BD00-1F3B8630A075}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovP", "LiskovP\LiskovP.csproj", "{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiskovP", "LiskovP\LiskovP.csproj", "{8CD7DE5F-1BAC-42D3-A209-4F09C55E9884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSegregation", "InterfaceSegregation\InterfaceSegregation.csproj", "{310B5CF2-130A-4BA0-A2AA-9AFCF9FB4A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInversion", "DependencyInversion\DependencyInversion.csproj", "{FFC7588A-FD78-47C1-8E86-ABAC3100EAE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
